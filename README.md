@@ -16,6 +16,8 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="35" width="35" src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://icon-library.com/images/twitter-icon-png-transparent/twitter-icon-png-transparent-11.jpg" />][twitter]
+
 
 
 <br />
@@ -23,6 +25,8 @@
 
 [instagram]: https://www.instagram.com/hikmetnrim
 [instagram 2]: https://www.instagram.com/101yazilimoloji
+[twitter]: https://twitter.com/hikmetnri
+
 [bionluk]: https://bionluk.com/hikmetnri
 [linkedin]:https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://www.linkedin.com/in/hikmet-nuri-melemen-4271b5210
 [gmail]: mailto:hikmet.nuri.33@gmail.com
