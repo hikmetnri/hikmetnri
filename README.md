@@ -16,7 +16,9 @@
 [<img align="center" height="35" width="35"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 [<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="center" height="35" width="35" src="https://icon-library.com/images/twitter-icon-png-transparent/twitter-icon-png-transparent-11.jpg" />][twitter]
-<br />
+
+<br/>
+
 [instagram]: https://www.instagram.com/hikmetnrim
 [instagram 2]: https://www.instagram.com/101yazilimoloji
 [twitter]: https://twitter.com/hikmetnri
