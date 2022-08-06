@@ -12,11 +12,11 @@
 ### 📩 Connect with me:
 
 [<img align="center"  margin-left="20px" margin-right="20px" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="center" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="center" height="35" width="35" src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
-[<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="center" height="35" width="35" src="https://icon-library.com/images/twitter-icon-png-transparent/twitter-icon-png-transparent-11.jpg" />][twitter]
+[<img align="center" margin-left="20px" margin-right="20px" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
+[<img align="center" height="24" width="24" margin-left="20px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="center" height="35" width="35" margin-left="20px" margin-right="20px" src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
+[<img align="center" height="24" width="24" margin-left="20px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="center" height="35" width="35" margin-left="20px" margin-right="20px" src="https://icon-library.com/images/twitter-icon-png-transparent/twitter-icon-png-transparent-11.jpg" />][twitter]
 
 
 
