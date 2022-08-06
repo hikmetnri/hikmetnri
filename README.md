@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="359" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="362" />
 
 ## I'm a Student 👨‍🎓, Full Stack And BackEnd Developer 🚀, Social Media Writer  ✍  ➤  [<img align="center" height="30" width="30"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 - 🔭 I’m currently trying to improve myself.
@@ -7,7 +7,6 @@
 - 🤔 I’m looking for a colleague to learn with. 🔍
 - 🥅 2022-2023 Goals: Developing an app that will be heard around the world 🌎 and making a social media app.📱
 - ⚡ Fun fact: I like to play football ⚽ , play chess ♟, ride a bike 🚴‍♀️ and play computer games. 💻
-
 
 ### 📩 Connect with me:
 
@@ -45,7 +44,6 @@
 [css]: https://www.w3schools.com/css/
 [js]: https://www.w3schools.com/js/default.asp
 
-<br />
 <br />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hikmetnri&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmetnri&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
