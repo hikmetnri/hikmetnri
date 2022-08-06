@@ -21,8 +21,8 @@
 
 
 [instagram]: https://www.instagram.com/hikmetnrim
+[instagram]: https://www.instagram.com/101ya](https://www.instagram.com/101yazilimoloji
 [bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
+[linkedin]:https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://www.linkedin.com/in/hikmet-nuri-melemen-4271b5210
 [gmail]: mailto:hikmet.nuri.33@gmail.com
 <br />
