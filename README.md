@@ -2,11 +2,11 @@
 
 ## I'm a Student 👨‍🎓, Full Stack And Back Developer 🚀, Social Media Writer  ✍  ➤  [<img align="center" height="30" width="30"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 - 🔭 I’m currently trying to improve myself.
-- 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
-- 🤔 I’m looking for help with Flutter front-end developer
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+- 🌱 I’m currently learning. 😂
+- 👯 I’m currently working on java👩‍💻 and web design. 🎨
+- 🤔 I’m looking for a colleague to learn with. 🔍
+- 🥅 2022-2023 Goals: Developing an app that will be heard around the world 🌎 and making a social media app.📱
+- ⚡ Fun fact: I like to play football ⚽ , play chess ♟, ride a bike 🚴‍♀️ and play computer games. 💻
 
 
 ### 📩 Connect with me:
@@ -18,22 +18,16 @@
 [<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="center" height="35" width="35" src="https://icon-library.com/images/twitter-icon-png-transparent/twitter-icon-png-transparent-11.jpg" />][twitter]
 
-
-
 <br />
-
 
 [instagram]: https://www.instagram.com/hikmetnrim
 [instagram 2]: https://www.instagram.com/101yazilimoloji
 [twitter]: https://twitter.com/hikmetnri
-
 [bionluk]: https://bionluk.com/hikmetnri
 [linkedin]:https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://www.linkedin.com/in/hikmet-nuri-melemen-4271b5210
 [gmail]: mailto:hikmet.nuri.33@gmail.com
 <br />
-
 ### 🔧 Languages and Tools:
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
