@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="385" height="365" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="365" />
 
 ## I'm a Student 👨‍🎓, Full Stack And BackEnd Developer 🚀, Social Media Writer  ✍  ➤  [<img align="center" height="30" width="30"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 - 🔭 I’m currently trying to improve myself.
