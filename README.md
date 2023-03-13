@@ -2,14 +2,13 @@
 
 ## Öğrenci 👨‍🎓, Full Stack Ve BackEnd Geliştirici 🚀, Sosyal Medya ✍  ➤  [<img align="center" height="30" width="30"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 - 🔭 Şu an kendimi geliştirmeye çalışıyorum.
-- 👯 Şu anda java [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]👩‍💻 ve web tasarımı üzerinde çalışıyorum. 🎨
+- 👯 Şu anda java 👩‍💻 ve web tasarımı üzerinde çalışıyorum. 🎨
 - 🥅 2022-2023 Hedefler: Tüm dünyada 🌎 duyulacak bir sosyal medya uygulaması yapmak.📱
 - ⚡ Hobilerim: Futbol ⚽ , satranç ♟ , bisiklete binmeyi 🚴‍♀️ ve bilgisayar oyunları oynamayı severim. 💻
 
 ### 📩 İletişim:
 
 [<img align="center"  alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="center" height="35" width="35"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 [<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="center" height="35" width="35" src="https://icon-library.com/images/twitter-icon-png-transparent/twitter-icon-png-transparent-11.jpg" />][twitter]
