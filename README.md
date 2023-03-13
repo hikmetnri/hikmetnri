@@ -1,17 +1,14 @@
 <img align="right" alt="GIF" src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0004.gif" width="385" height="355" />
 
-## I'm a Student 👨‍🎓, Full Stack And BackEnd Developer 🚀, Social Media Writer  ✍  ➤  [<img align="center" height="30" width="30"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
-- 🔭 I’m currently trying to improve myself.
-- 🌱 I’m currently learning. 😂
-- 👯 I’m currently working on java👩‍💻 and web design. 🎨
-- 🤔 I’m looking for a colleague to learn with. 🔍
-- 🥅 2022-2023 Goals: Developing an app that will be heard around the world 🌎 and making a social media app.📱
-- ⚡ Fun fact: I like to play football ⚽ , play chess ♟, ride a bike 🚴‍♀️ and play computer games. 💻
+## Öğrenci 👨‍🎓, Full Stack Ve BackEnd Geliştirici 🚀, Sosyal Medya ✍  ➤  [<img align="center" height="30" width="30"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
+- 🔭 Şu an kendimi geliştirmeye çalışıyorum.
+- 👯 Şu anda java [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]👩‍💻 ve web tasarımı üzerinde çalışıyorum. 🎨
+- 🥅 2022-2023 Hedefler: Tüm dünyada 🌎 duyulacak bir sosyal medya uygulaması yapmak.📱
+- ⚡ Hobilerim: Futbol ⚽ , satranç ♟ , bisiklete binmeyi 🚴‍♀️ ve bilgisayar oyunları oynamayı severim. 💻
 
-### 📩 Connect with me:
+### 📩 İletişim:
 
 [<img align="center"  alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="center" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
 [<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="center" height="35" width="35"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 [<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
@@ -19,10 +16,8 @@
 
 <br/>
 
-[instagram]: https://www.instagram.com/hikmetnrim
 [instagram 2]: https://www.instagram.com/101yazilimoloji
 [twitter]: https://twitter.com/hikmetnri
-[bionluk]: https://bionluk.com/hikmetnri
 [linkedin]:https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://www.linkedin.com/in/hikmet-nuri-melemen-4271b5210
 [gmail]: mailto:hikmet.nuri.33@gmail.com
 
