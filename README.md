@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0004.gif" width="385" height="355" />
 
-## Öğrenci 👨‍🎓, Full Stack Ve BackEnd Geliştirici 🚀, Sosyal Medya ✍  ➤  [<img align="center" height="30" width="30"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
+## Öğrenci 👨‍🎓, Full Stack Ve BackEnd Geliştirici 🚀, Sosyal Medya Sayfam ✍  ➤  [<img align="center" height="30" width="30"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 - 🔭 Şu an kendimi geliştirmeye çalışıyorum.
 - 👯 Şu anda java 👩‍💻 ve web tasarımı üzerinde çalışıyorum. 🎨
 - 🥅 2022-2023 Hedefler: Tüm dünyada 🌎 duyulacak bir sosyal medya uygulaması yapmak.📱
@@ -9,10 +9,12 @@
 ### 📩 İletişim:
 
 [<img align="center"  alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="center" height="35" width="35"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram]
 [<img align="center" height="35" width="35"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 [<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="center" height="35" width="35" src="https://icon-library.com/images/twitter-icon-png-transparent/twitter-icon-png-transparent-11.jpg" />][twitter]
 
+[instagram]: https://www.instagram.com/hikmetnri
 [instagram 2]: https://www.instagram.com/101yazilimoloji
 [twitter]: https://twitter.com/hikmetnri
 [linkedin]:https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://www.linkedin.com/in/hikmet-nuri-melemen-4271b5210
