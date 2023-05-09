@@ -1,10 +1,10 @@
 <img align="right" alt="GIF" src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0004.gif" width="385" height="355" />
 
-## Öğrenci 👨‍🎓, Full Stack Ve BackEnd Geliştirici 🚀, Sosyal Medya Sayfam ✍  ➤  [<img align="center" height="30" width="30"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
+## Öğrenci 👨‍🎓, Full Stack Ve BackEnd Geliştirici 🚀
 - 🔭 Şu an kendimi geliştirmeye çalışıyorum.
 - 👯 Şu anda java 👩‍💻 ve web tasarımı üzerinde çalışıyorum. 🎨
 - 🥅 2022-2023 Hedefler: Tüm dünyada 🌎 duyulacak bir sosyal medya uygulaması yapmak.📱
-- ⚡ Hobilerim: Futbol ⚽ , satranç ♟ , bisiklete binmeyi 🚴‍♀️ ve bilgisayar oyunları oynamayı severim. 💻
+- ⚡ Hobilerim: ⚽Futbol , ♟Satranç ve 🎮Bilgisayar oyunlarını oynar, 🚴‍♀️Bisiklete binmeyide çok severim. 💻
 
 ### 📩 İletişim:
 
