@@ -10,14 +10,12 @@
 
 [<img align="center" height="35" width="35"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram]
 [<img align="center"  alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="center" height="35" width="35"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram 2]
 [<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="center" height="35" width="35" src="https://icon-library.com/images/twitter-icon-png-transparent/twitter-icon-png-transparent-11.jpg" />][twitter]
 
 [instagram]: https://www.instagram.com/hikmetnri
-[instagram 2]: https://www.instagram.com/101yazilimoloji
 [twitter]: https://twitter.com/hikmetnri
-[linkedin]:https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://www.linkedin.com/in/hikmet-nuri-melemen-4271b5210
+[linkedin]:https://www.linkedin.com/in/hikmetnri
 [gmail]: mailto:hikmet.nuri.33@gmail.com
 
 <br />
