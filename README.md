@@ -2,9 +2,9 @@
 
 ## Öğrenci 👨‍🎓, Full Stack Ve BackEnd Geliştirici 🚀
 - 🔭 Şu an kendimi geliştirmeye çalışıyorum.
-- 👯 Şu anda java 👩‍💻 ve web tasarımı üzerinde çalışıyorum. 🎨
-- 🥅 2022-2023 Hedefler: Tüm dünyada 🌎 duyulacak bir sosyal medya uygulaması yapmak.📱
-- ⚡ Hobilerim: ⚽Futbol , ♟Satranç ve 🎮Bilgisayar oyunlarını oynar, 🚴‍♀️Bisiklete binmeyide çok severim. 💻
+- 👯 Şu anda Dart 👩‍💻 ve Flutter üzerinde çalışıyorum. 🎨
+- 🥅 2023-2024 Hedefler: Tüm dünyada 🌎 duyulacak bir sosyal medya uygulaması yapmak.📱
+- ⚡ Hobilerim: ⚽Futbol , ♟Satranç ve 🎮Bilgisayar oyunlarını oynamak, 🚴‍♀️Bisiklete binmeyide çok severim. 💻
 
 ### 📩 İletişim:
 
