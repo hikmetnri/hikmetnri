@@ -9,7 +9,7 @@
 ### 📩 İletişim:
 
 [<img align="center" height="35" width="35"  src="https://www.svgrepo.com/show/66293/instagram.svg" />][instagram]
-[<img align="center"  alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="center" alt="linkedin" width="24px" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" />][linkedin]
 [<img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="center" height="35" width="35" src="https://icon-library.com/images/twitter-icon-png-transparent/twitter-icon-png-transparent-11.jpg" />][twitter]
 
