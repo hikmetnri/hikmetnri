@@ -1,9 +1,9 @@
 <img align="right" alt="Animasyonlu bilgisayar" src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0004.gif" width="385" height="355" />
 
-<h1 align="center">Merhaba, ben Hikmet Nuri Melemen 👋</h1>
+<h3 align="center">Merhaba, ben Hikmet Nuri Melemen 👋</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&width=560&lines=Full+Stack+%26+Backend+Geli%C5%9Ftirici;Flutter+ile+mobil+%C2%B7+React+ile+web+%C2%B7+Node.js+ile+backend;Ehliyet+Yolu+%26+PuzzlePas" alt="Hikmet Nuri Melemen — Full Stack &amp; Backend Geliştirici" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=430&lines=Full+Stack+%26+Backend+Geli%C5%9Ftirici;Flutter+%C2%B7+React+%C2%B7+Node.js;Ehliyet+Yolu+%26+PuzzlePas" alt="Hikmet Nuri Melemen — Full Stack &amp; Backend Geliştirici" />
 </p>
 
 <p align="center">
