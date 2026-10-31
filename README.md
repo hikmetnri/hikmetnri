@@ -1,3 +1,5 @@
+<img align="right" alt="Animasyonlu bilgisayar" src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0004.gif" width="385" height="355" />
+
 <h1 align="center">Merhaba, ben Hikmet Nuri Melemen 👋</h1>
 
 <p align="center">
@@ -46,6 +48,7 @@ Node.js/Express + MongoDB backend.
 
 - 🔗 [ehliyetyolu.com](https://ehliyetyolu.com)
 - ▶️ [Google Play'de Ehliyet Yolu](https://play.google.com/store/apps/details?id=com.ehliyetyolu.app)
+- 🍎 [App Store'da Ehliyet Yolu](https://apps.apple.com/tr/app/id6812385688)
 
 ### 🧩 PuzzlePas
 
@@ -54,6 +57,7 @@ Flutter ile mobil, React ile web ve Node.js/Supabase backend; tek oyunculu mod,
 canlı düellolar, özel odalar, jokerler, günlük görevler ve lig.
 
 - 🔗 [puzzlepas.com](https://puzzlepas.com)
+- 🍎 [App Store'da PuzzlePas](https://apps.apple.com/tr/app/id6825049953)
 
 ## 📊 GitHub İstatistikleri
 
