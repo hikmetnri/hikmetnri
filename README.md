@@ -40,7 +40,6 @@
 ## 🚀 Geliştirdiğim Uygulamalar
 
 ### 🚗 Ehliyet Yolu
-
 Ehliyet sınavına hazırlık platformu: test çözme, pratik yapma ve gelişim takibi.
 Flutter ile iOS/Android uygulaması, React + Vite ile web ve yönetim paneli,
 Node.js/Express + MongoDB backend.
@@ -50,7 +49,6 @@ Node.js/Express + MongoDB backend.
 - 🍎 [App Store'da Ehliyet Yolu](https://apps.apple.com/tr/app/id6812385688)
 
 ### 🧩 PuzzlePas
-
 Özgün Türkçe harf çemberi oyunu: **28 harf, 28 soru.** Bilgini test et, pas geç, çemberi tamamla.
 Flutter ile mobil, React ile web ve Node.js/Supabase backend; tek oyunculu mod,
 canlı düellolar, özel odalar, jokerler, günlük görevler ve lig.
