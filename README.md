@@ -3,8 +3,7 @@
 <h1 align="center">Merhaba, ben Hikmet Nuri Melemen 👋</h1>
 
 <p align="center">
-  <b>Full Stack &amp; Backend Geliştirici</b><br />
-  Flutter ile mobil · React ile web · Node.js &amp; MongoDB ile backend
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&width=560&lines=Full+Stack+%26+Backend+Geli%C5%9Ftirici;Flutter+ile+mobil+%C2%B7+React+ile+web+%C2%B7+Node.js+ile+backend;Ehliyet+Yolu+%26+PuzzlePas" alt="Hikmet Nuri Melemen — Full Stack &amp; Backend Geliştirici" />
 </p>
 
 <p align="center">
@@ -58,9 +57,3 @@ canlı düellolar, özel odalar, jokerler, günlük görevler ve lig.
 
 - 🔗 [puzzlepas.com](https://puzzlepas.com)
 - 🍎 [App Store'da PuzzlePas](https://apps.apple.com/tr/app/id6825049953)
-
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikmetnri&theme=tokyonight" alt="hikmetnri GitHub profil özeti" />
-</p>
